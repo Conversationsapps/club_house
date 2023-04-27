@@ -1,0 +1,192 @@
+{
+    "data": [
+        {
+            "identity": {
+                "low": 16,
+                "high": 0
+            },
+            "labels": [
+                "Club"
+            ],
+            "properties": {
+                "founder_id": {
+                    "low": -1,
+                    "high": -1
+                },
+                "category_id": {
+                    "low": 18,
+                    "high": 0
+                },
+                "updated_at": {
+                    "year": {
+                        "low": 2023,
+                        "high": 0
+                    },
+                    "month": {
+                        "low": 1,
+                        "high": 0
+                    },
+                    "day": {
+                        "low": 1,
+                        "high": 0
+                    },
+                    "hour": {
+                        "low": 17,
+                        "high": 0
+                    },
+                    "minute": {
+                        "low": 57,
+                        "high": 0
+                    },
+                    "second": {
+                        "low": 18,
+                        "high": 0
+                    },
+                    "nanosecond": {
+                        "low": 966000000,
+                        "high": 0
+                    },
+                    "timeZoneOffsetSeconds": {
+                        "low": 0,
+                        "high": 0
+                    }
+                },
+                "created_at": {
+                    "year": {
+                        "low": 2023,
+                        "high": 0
+                    },
+                    "month": {
+                        "low": 1,
+                        "high": 0
+                    },
+                    "day": {
+                        "low": 1,
+                        "high": 0
+                    },
+                    "hour": {
+                        "low": 17,
+                        "high": 0
+                    },
+                    "minute": {
+                        "low": 57,
+                        "high": 0
+                    },
+                    "second": {
+                        "low": 18,
+                        "high": 0
+                    },
+                    "nanosecond": {
+                        "low": 966000000,
+                        "high": 0
+                    },
+                    "timeZoneOffsetSeconds": {
+                        "low": 0,
+                        "high": 0
+                    }
+                },
+                "club_name": "Sports Club",
+                "location_id": {
+                    "low": -1,
+                    "high": -1
+                }
+            },
+            "elementId": "4:039c27ca-f55a-411d-9b27-c0c718f16f56:16"
+        },
+        {
+            "identity": {
+                "low": 54,
+                "high": 0
+            },
+            "labels": [
+                "Club"
+            ],
+            "properties": {
+                "founder_id": {
+                    "low": -1,
+                    "high": -1
+                },
+                "updated_at": {
+                    "year": {
+                        "low": 2022,
+                        "high": 0
+                    },
+                    "month": {
+                        "low": 12,
+                        "high": 0
+                    },
+                    "day": {
+                        "low": 29,
+                        "high": 0
+                    },
+                    "hour": {
+                        "low": 17,
+                        "high": 0
+                    },
+                    "minute": {
+                        "low": 19,
+                        "high": 0
+                    },
+                    "second": {
+                        "low": 13,
+                        "high": 0
+                    },
+                    "nanosecond": {
+                        "low": 523000000,
+                        "high": 0
+                    },
+                    "timeZoneOffsetSeconds": {
+                        "low": 0,
+                        "high": 0
+                    }
+                },
+                "category_id": {
+                    "low": -1,
+                    "high": -1
+                },
+                "created_at": {
+                    "year": {
+                        "low": 2022,
+                        "high": 0
+                    },
+                    "month": {
+                        "low": 12,
+                        "high": 0
+                    },
+                    "day": {
+                        "low": 29,
+                        "high": 0
+                    },
+                    "hour": {
+                        "low": 17,
+                        "high": 0
+                    },
+                    "minute": {
+                        "low": 19,
+                        "high": 0
+                    },
+                    "second": {
+                        "low": 13,
+                        "high": 0
+                    },
+                    "nanosecond": {
+                        "low": 523000000,
+                        "high": 0
+                    },
+                    "timeZoneOffsetSeconds": {
+                        "low": 0,
+                        "high": 0
+                    }
+                },
+                "club_name": "Final Club 2",
+                "location_id": {
+                    "low": 29,
+                    "high": 0
+                }
+            },
+            "elementId": "4:039c27ca-f55a-411d-9b27-c0c718f16f56:54"
+        }
+    ],
+    "status": true,
+    "message": "clubs result"
+}
